@@ -2,7 +2,7 @@
 #Assignment
 
 Review GitHub's API documentation https://developer.github.com/v3/repos/#list-user-repositories for the list user repositories endpoint to understand how this endpoint works.
-Example GitHub API endpoint: https://vishald1994.github.io/GitHub-repo-finder-API/
+Example GitHub API endpoint: https://api.github.com/users/vishald1994/repos
 
 #Requirements
 
